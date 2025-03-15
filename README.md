@@ -5,6 +5,6 @@
 - [Clash for Windows客户端大全](https://clash.download)
 - [Clash for Windows节点分享](https://clash.download/jichang)
 - [Clash for Windows机场推荐](https://clash.download/jichang)
-- [Clash for Windows常见问题](https://clash.download/clash-fir-windows#常见问题)
+- [Clash for Windows常见问题](https://clash.download/clash-for-windows#常见问题)
 
 ![clash-for-windows](https://upload.wikimedia.org/wikipedia/commons/0/0b/Clash_Logo.png?20210515095348)
