@@ -1,6 +1,6 @@
 # Clash for Windows 下载与官网导航
 - [Clash for Windows使用教程](https://clash.download/clash-for-windows)
-- [Clash for Windows官网地址](https://clash.download/clash-for-windows)
+- [Clash for Windows官网地址](https://clashforwindows.download)
 - [Clash for Windows最新版下载](https://clash.download/clash-for-windows)
 - [Clash for Windows客户端大全](https://clash.download)
 - [Clash for Windows节点分享](https://clash.download/jichang)
